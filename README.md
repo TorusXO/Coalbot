@@ -13,3 +13,7 @@ There is several commands that can be done by / in telegram:
 
 This repo is ready to be hosted on Amvera for example. 
 Bot works for multiple users and the amount of tables as well as their names could be edited in the files. 
+
+In order to run It, you have to add your Telegram API token that can be obtained from BotFather bot in Telegram. 
+
+This token must be inserted in the field within the file https://github.com/TorusXO/Coalbot/blob/main/config.py 
