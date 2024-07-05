@@ -7,8 +7,8 @@ Also bot counts total amount of shishas and how many changes of coals were made 
 Color of the emojis is changing according to the time, first it will change from green to yellow after 8 mins, then to red when 2 mins remaining, so that is easy to visually find which shishas are expiring their time for a change. 
 
 There is several commands that can be done by / in telegram:
-/reset_count - resets count and gives you the amount of shishas deleted today in the bot(that's how counting of total shishas made)
-/minus - -1 from total shishas count in case you added and deleted unneccasary shisha.
+* /reset_count - resets count and gives you the amount of shishas deleted today in the bot(that's how counting of total shishas made)
+* /minus - -1 from total shishas count in case you added and deleted unneccasary shisha.
 
 
 This repo is ready to be hosted on Amvera for example. 
