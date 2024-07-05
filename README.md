@@ -1,4 +1,4 @@
-# Coalbot
+# Coalbot Aiogram 3.4.1
 Telegram bot repo for tracking coal changes in shisha cafe
 This bot makes coal changes for a set of tables from 2 to 11, before that the cafe had tables 1-10 so I changed that to this.
 
